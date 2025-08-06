@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Project A",
+    "description": "Awesome Flutter app",
+    "url": "https://github.com/teodor/project-a"
+  },
+  {
+    "name": "Project B",
+    "description": "Cool library",
+    "url": "https://github.com/teodor/project-b"
+  },
+  {
+    "name": "Project A",
+    "description": "Awesome Flutter app",
+    "url": "https://github.com/teodor/project-a"
+  },
+  {
+    "name": "Project B",
+    "description": "Cool library",
+    "url": "https://github.com/teodor/project-b"
+  }
+]
